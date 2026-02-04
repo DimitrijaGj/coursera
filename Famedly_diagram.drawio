@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=7;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="380" width="260" x="20" y="450" as="geometry" />
+        </mxCell>
         <mxCell id="uvg2V8Ok4CiQqeWB5i0w-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=100;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
           <mxGeometry height="70" width="830" y="310" as="geometry" />
         </mxCell>
@@ -21,6 +24,33 @@
         </mxCell>
         <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AD User and Access Managment&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="150" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-7" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0050ef;shape=mxgraph.mscae.enterprise.app_generic;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="57.3" width="73.46" x="358.59" y="72.7" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-8" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0050ef;shape=mxgraph.mscae.enterprise.app_generic;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="59.5" width="76.28" x="75.44999999999999" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Famedly-Sync&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="320.32" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Famedly-Sync&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="149.68" x="40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-12" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fa6800;shape=mxgraph.mscae.system_center.management_point;fontColor=#000000;" value="" vertex="1">
+          <mxGeometry height="125" width="120" x="600" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.security" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="610" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Zitadel&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="585" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-15" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="68.59" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Application&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="149.68" x="40.32" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
