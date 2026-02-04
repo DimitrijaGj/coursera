@@ -8,7 +8,7 @@
           <mxGeometry height="380" width="260" x="20" y="450" as="geometry" />
         </mxCell>
         <mxCell id="uvg2V8Ok4CiQqeWB5i0w-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=100;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
-          <mxGeometry height="70" width="830" y="310" as="geometry" />
+          <mxGeometry height="110" width="830" y="290" as="geometry" />
         </mxCell>
         <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-1" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Famedly" vertex="1">
           <mxGeometry height="40" width="120" x="720" y="420" as="geometry" />
@@ -51,6 +51,18 @@
         </mxCell>
         <mxCell id="7cf4Kc8oZ1a7CfaHQCHb-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Application&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="149.68" x="40.32" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="7AYUydamcfg9ysgZSvQs-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.178;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="90.02783999999997" y="470" as="sourcePoint" />
+            <mxPoint x="90" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7AYUydamcfg9ysgZSvQs-2" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.firewall" value="FW-Rule" vertex="1">
+          <mxGeometry height="30" width="34.09" x="40" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="7AYUydamcfg9ysgZSvQs-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.tunnel;rotation=-90;" value="VPN Site-to-Site" vertex="1">
+          <mxGeometry height="9" width="50" x="80" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
